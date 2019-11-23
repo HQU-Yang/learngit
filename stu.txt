@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Hello, I am a student.
-=======
-I am a student.
->>>>>>> dev

@@ -7,3 +7,4 @@ Creating  a new branch is quick & simple.
 =======
 Creating a new branch is quick and simple.
 >>>>>>> feature1
+I am very happy to study git.
